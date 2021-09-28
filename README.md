@@ -27,10 +27,11 @@ Hoje busco a oportunidade de colocar toda esta experiência e dedicação em pr�
   
   <div>
     
+     <a href="https://www.linkedin.com/in/eberton-schippnik-6430aa53/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/beto_schippnik" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/betoschippnik" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:eberton.figueredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eberton-schippnik-6430aa53/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
   ![Snake animation](https://github.com/ebertonschippnik/ebertonschippnik/blob/output/github-contribution-grid-snake.svg)
  
