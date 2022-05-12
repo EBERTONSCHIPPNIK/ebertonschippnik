@@ -8,6 +8,9 @@ Atualmente estou totalmente voltado a área Tecnologia. Faço diversos cursos e 
 Estou extremamete dedicado ao Desenvolvimento de software e aplicações.
 Sempre fiz pequenas aplicações, trabalhos de cabeamento, configurações de terminais, montagem de racks e suporte a quem está com problemas.
 
+"Alguém está sentado na sombra hoje porque alguém plantou uma árvore há muito tempo."
+Warren Buffett
+
 
  <div>
 <div align="center">
