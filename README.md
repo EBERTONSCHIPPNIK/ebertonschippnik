@@ -1,13 +1,13 @@
 ### Olá!!! Eu sou o Eberton Schippnik
 
-- 📘 Estudante de Rede de Computadores
+- 📘 Estudante de Tecnologia
 - 🏢 Carso Instalações do Brasil
-- 💬 Durante minha jornada profissional, trabalhei em diversas áreas e isso foi extremamente lucrativo em experiência e conhecimento. 
-Desde de Office boy até Coordenador Logístico, eu conquistei muitas coisas.
-Porém eu ainda não havia atingido meu grande objetivo, que é área Tecnologia. Sempre fiz pequenos trabalhos, como cabeamento, configurações de terminais, montagem de racks e aquele suporte a quem está com problemas. Desenvolvendo pequenas aplicações em back-end. 😁
-Então recentemente tomei a decisão de seguir para onde eu sempre quis e usar toda a dedicação e experiência que tive em outras áreas para a Tecnologia.
-Experiências esta em Contabilidade, Telemarketing, Escritório de Advocacia, Prestação de Serviço, Comércio exterior, Logística e Telecomunicações.
-Hoje busco a oportunidade de colocar toda esta experiência e dedicação em prática.
+- 💬 Durante minha jornada profissional, trabalhei em diversas áreas e isso foi extremamente lucrativo em experiência profissional e conhecimento. 
+Desde de Office boy até Coordenador Logístico, eu conquistei uma diversadede de coisas.
+Atualmente estou totalmente voltado a área Tecnologia. Faço diversos cursos e busco constatimente conteudos para expandir meu conhecimento.
+Estou extremamete dedicado ao Desenvolvimento de software e aplicações.
+Sempre fiz pequenas aplicações, trabalhos de cabeamento, configurações de terminais, montagem de racks e suporte a quem está com problemas.
+
 
  <div>
 <div align="center">
