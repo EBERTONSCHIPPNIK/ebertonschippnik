@@ -2,15 +2,16 @@
 
 - 📘 Estudante de Tecnologia
 - 🏢 Carso Instalações do Brasil
-- 💬 Durante minha jornada profissional, trabalhei em diversas áreas e isso foi extremamente lucrativo em experiência profissional e conhecimento. 
-Desde de Office boy até Coordenador Logístico, eu conquistei uma diversadede de coisas.
-Atualmente estou totalmente voltado a área Tecnologia. Faço diversos cursos e busco constatimente conteudos para expandir meu conhecimento.
-Estou extremamete dedicado ao Desenvolvimento de software e aplicações.
-Sempre fiz pequenas aplicações, trabalhos de cabeamento, configurações de terminais, montagem de racks e suporte a quem está com problemas.
+- 💬 Minha vontade de fazer a diferença me trouxe até este momento.
+Momento em que estou buscando melhorar a vida de alguém, incentivar, criar e ajudar a construir algo melhor e inovador.
+Estudante de redes de computadores, com ênfase em fazer o melhor.
+Com vasta experiência em trabalho com pessoas e  gestão de equipes.
+O que eu gosto?
+Sou fã de conhecimento e inovação.
+
 
 "Alguém está sentado na sombra hoje porque alguém plantou uma árvore há muito tempo."
 Warren Buffett
-
 
  <div>
 <div align="center">
