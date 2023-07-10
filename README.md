@@ -9,8 +9,8 @@ Com vasta experiência em trabalho com pessoas e  gestão de equipes.
 O que eu gosto?
 Sou fã de conhecimento e inovação.
 
-"Alguém está sentado na sombra hoje porque alguém plantou uma árvore há muito tempo."
-Warren Buffett
+*"Alguém está sentado na sombra hoje porque alguém plantou uma árvore há muito tempo."*
+**Warren Buffett**
 
  <div>
 <div align="center">
