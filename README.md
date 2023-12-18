@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou o Eberton Schippnik
 
-- 📘 Estudante de Tecnologia
+- 📘 Estudante de Pós Graduação em Análise de Sistemas
 - 🏢 Carso Instalações do Brasil
 - 💬 Minha vontade de fazer a diferença me trouxe até este momento.
 Momento em que estou buscando melhorar a vida de alguém, incentivar, criar e ajudar a construir algo melhor e inovador.
