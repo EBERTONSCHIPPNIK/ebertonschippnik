@@ -2,10 +2,9 @@
 
 - 📘 Estudante de Pós Graduação em Análise de Sistemas
 - 🏢 Carso Instalações do Brasil
-- 💬 Minha vontade de fazer a diferença me trouxe até este momento.
-Momento em que estou buscando melhorar a vida de alguém, incentivar, criar e ajudar a construir algo melhor e inovador.
-Estudante de redes de computadores, com ênfase em fazer o melhor.
-Com vasta experiência em trabalho com pessoas e  gestão de equipes.
+- 💬 Estou recém formado na área de tecnologia em processo de transição de carreira.
+Não possuo experiência profissional registrada em desenvolvimento de software, porém possuo projetos e estudos dentro desta área que estão disponiveis no meu Github.
+Possuo experiência em Coordenação, Logística, Telecomunicações dentre outras.
 O que eu gosto?
 Sou fã de conhecimento e inovação.
 
